@@ -1,0 +1,10 @@
+C:\Distantion\Graphics\lab3_WorkWithText\bin\Debug\lab3_WorkWithText.exe.config
+C:\Distantion\Graphics\lab3_WorkWithText\bin\Debug\lab3_WorkWithText.exe
+C:\Distantion\Graphics\lab3_WorkWithText\bin\Debug\lab3_WorkWithText.pdb
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.csproj.AssemblyReference.cache
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.Form1.resources
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.Properties.Resources.resources
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.csproj.GenerateResource.cache
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.csproj.CoreCompileInputs.cache
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.exe
+C:\Distantion\Graphics\lab3_WorkWithText\obj\Debug\lab3_WorkWithText.pdb
