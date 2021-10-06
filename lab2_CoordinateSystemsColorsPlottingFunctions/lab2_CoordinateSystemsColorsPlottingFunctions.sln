@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_CoordinateSystemsColorsPlottingFunctions", "lab2_CoordinateSystemsColorsPlottingFunctions.csproj", "{AE011E5A-FC90-4981-B2FD-70D5CF851D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE011E5A-FC90-4981-B2FD-70D5CF851D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE011E5A-FC90-4981-B2FD-70D5CF851D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE011E5A-FC90-4981-B2FD-70D5CF851D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE011E5A-FC90-4981-B2FD-70D5CF851D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBDF7410-FC0B-4F33-A3C3-E13F8935442E}
+	EndGlobalSection
+EndGlobal
